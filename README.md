@@ -11,6 +11,19 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/weekenthralling/weekenthralling/output/github-contribution-grid-snake.svg">
 </picture>
 
+## 💫 About Me
+- 🔭 I'm currently working on **Backend Development & Cloud Architecture**
+- 🌱 I'm currently learning **Kubernetes and Microservices Architecture**
+- 💬 Ask me about **Java, Go, Python, Docker, Kubernetes**
+- ⚡ Fun fact: I love exploring new technologies and contributing to open source projects
+
+<!-- ## 🌐 Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/weekenthralling" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://twitter.com/weekenthralling" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="mailto:weekenthralling@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="30" width="40" /></a>
+</p> -->
+
 <h2 align="center">Languages and Tools:</h2>
 <div style="display: flex; align-items: flex-start; align: center">
   <table align="center">
@@ -57,11 +70,29 @@
 ## **GitHub Statistics**
 
 <a href="https://github.com/weekenthralling">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weekenthralling&theme=dracula&hide_langs_below=1" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=weekenthralling&theme=dracula" alt="weekenthralling streak stats"/>
 </a>
 
 <a href="https://github.com/weekenthralling">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=weekenthralling&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=weekenthralling&show_icons=true&theme=dracula&line_height=27" alt="weekenthralling github stats"/>
 </a>
 
-![pv](https://pageview.vercel.app/?github_user=weekenthralling)
+<a href="https://github.com/weekenthralling">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weekenthralling&theme=dracula&layout=compact&card_width=445" alt="weekenthralling languages"/>
+</a>
+
+<!-- ## 📊 Weekly Development Breakdown -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<!-- ## 📝 Latest Blog Posts -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## 💡 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## 👀 Visitor Count
+<p align="center">
+  <img src="https://count.getloli.com/get/@weekenthralling?theme=rule34" alt="Visitor Count" />
+</p>
