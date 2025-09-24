@@ -69,17 +69,14 @@
 
 ## **GitHub Statistics**
 
-<!-- <a href="https://github.com/weekenthralling">
-  <img width="60%" src="https://streak-stats.demolab.com/?user=weekenthralling&theme=dracula" alt="weekenthralling streak stats"/>
-</a> -->
-
-<a href="https://github.com/weekenthralling">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=weekenthralling&show_icons=true&theme=dracula&line_height=27" alt="weekenthralling github stats"/>
-</a>
-
-<a href="https://github.com/weekenthralling">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weekenthralling&theme=dracula&layout=compact&card_width=360" alt="weekenthralling languages"/>
-</a>
+<p align="center">
+  <a href="https://github.com/weekenthralling">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=weekenthralling&show_icons=true&theme=dracula&line_height=27" alt="weekenthralling github stats"/>
+  </a>
+  <a href="https://github.com/weekenthralling">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weekenthralling&theme=dracula&layout=compact&langs_count=8&card_width=430" alt="weekenthralling languages"/>
+  </a>
+</p>
 
 ## 📈 GitHub Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=weekenthralling&theme=dracula&hide_border=true)
