@@ -70,15 +70,15 @@
 ## **GitHub Statistics**
 
 <a href="https://github.com/weekenthralling">
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=weekenthralling&theme=dracula" alt="weekenthralling streak stats"/>
+  <img width="60%" src="https://streak-stats.demolab.com/?user=weekenthralling&theme=dracula" alt="weekenthralling streak stats"/>
 </a>
 
 <a href="https://github.com/weekenthralling">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=weekenthralling&show_icons=true&theme=dracula&line_height=27" alt="weekenthralling github stats"/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=weekenthralling&show_icons=true&theme=dracula&line_height=27" alt="weekenthralling github stats"/>
 </a>
 
 <a href="https://github.com/weekenthralling">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weekenthralling&theme=dracula&layout=compact&card_width=445" alt="weekenthralling languages"/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weekenthralling&theme=dracula&layout=compact&card_width=360" alt="weekenthralling languages"/>
 </a>
 
 <!-- ## 📊 Weekly Development Breakdown -->
