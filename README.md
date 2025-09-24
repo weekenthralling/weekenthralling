@@ -69,9 +69,9 @@
 
 ## **GitHub Statistics**
 
-<a href="https://github.com/weekenthralling">
+<!-- <a href="https://github.com/weekenthralling">
   <img width="60%" src="https://streak-stats.demolab.com/?user=weekenthralling&theme=dracula" alt="weekenthralling streak stats"/>
-</a>
+</a> -->
 
 <a href="https://github.com/weekenthralling">
   <img width="60%" src="https://github-readme-stats.vercel.app/api?username=weekenthralling&show_icons=true&theme=dracula&line_height=27" alt="weekenthralling github stats"/>
@@ -80,6 +80,25 @@
 <a href="https://github.com/weekenthralling">
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weekenthralling&theme=dracula&layout=compact&card_width=360" alt="weekenthralling languages"/>
 </a>
+
+## 📈 GitHub Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=weekenthralling&theme=dracula&hide_border=true)
+
+## 🎮 Skill Points
+```sql
+SELECT skills FROM developer WHERE name = 'weekenthralling';
+```
+
+| Skill | Level | Experience |
+|-------|-------|------------|
+| ☕ Java | ████████████████████ 95% | 5+ years |
+| 🐹 Go | ███████████████████ 90% | 3+ years |
+| 🐍 Python | ██████████████████ 85% | 4+ years |
+| 🐳 Docker | ███████████████████ 90% | 3+ years |
+| ☸️ Kubernetes | ██████████████████ 80% | 2+ years |
+| 🗄️ MySQL | ████████████████ 75% | 4+ years |
+| 🐘 PostgreSQL | ███████████████ 70% | 3+ years |
+| 🐧 Linux | ███████████████████ 88% | 5+ years |
 
 <!-- ## 📊 Weekly Development Breakdown -->
 <!--START_SECTION:waka-->
