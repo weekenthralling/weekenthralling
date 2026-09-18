@@ -71,15 +71,15 @@
 
 <p align="center">
   <a href="https://github.com/weekenthralling">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=weekenthralling&show_icons=true&theme=dracula&line_height=27" alt="weekenthralling github stats"/>
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=weekenthralling&theme=dracula" alt="weekenthralling github stats"/>
   </a>
   <a href="https://github.com/weekenthralling">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weekenthralling&theme=dracula&layout=compact&langs_count=8&card_width=430" alt="weekenthralling languages"/>
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=weekenthralling&theme=dracula" alt="weekenthralling languages"/>
   </a>
 </p>
 
 ## 📈 GitHub Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=weekenthralling&theme=dracula&hide_border=true)
+![GitHub activity summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=weekenthralling&theme=dracula)
 
 ## 🎮 Skill Points
 ```sql
